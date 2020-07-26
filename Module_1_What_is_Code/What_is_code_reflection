@@ -1,0 +1,46 @@
+What_is_code_reflection
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+
+When the letter a is pressed on our keypad a signal is sent that lets the computer know which letter is being commanded then the computer selects the image of the letter ˜a from its memory file. Afterwards the image is signaled to a box of pixels to be displayed into the screen in the form of lines and circles. The keyboard is basically scanning for a set of instructions to transfer down the pipe until the command is displayed on the screen.
+
+In your own words, how do computers use input and output to create experiences? (250 words max)
+
+The computer used input to carry out the message and output to display it. Between those two steps lies a list of commands that is embedded into the computer as codes. These codes dictate what the experience is going to be. From a simple type of a letter to the download of an image or video. The computer is set to break down the input data into codes it needs to follow in order to display on the screen
+
+Explain why software products are essentially infinitely reproducible nothings. (150 words max)
+
+Software are infinitely reproducible nothings because many varieties exist on the open network for people to access for free. Software can be replicated and distributed for cheap. Software can be disposable and replaced for example when Gateway computers used to come with software CD to install on the computer in time we came to notice that those software could be downloaded on the web.
+
+
+
+Explain in your own words how code becomes software. (150 words max)
+
+A computer takes the data you input, i.e. letters  typed or pictures loaded, and turns them to lower level instructions with the use of compiler software.  Compiler goes character by character and  groups them to create functions and arguments. These codes become the guiding system to creating softwares with specific instruction.
+
+Explain algorithms in your own words. (150 words max)
+
+Algorithms are software or programming languages used to break down large computations into smaller ones that can be easily reused. Programming language systems are built to organize algorithms which can be simplified to functions that let the computer know certain instructions. Algorithms can be organized and downloadable from the internet. Algorithms help computers execute faster results and produce larger quantities of a certain transaction.
+
+Explain the DRY principle. (100 words max)
+
+Don™t Repeat Yourself or DRY Principle is intended to remind programmers to create functions once and let the computer repeat itself. The Principle is to get programmers used to naming things once and doing things once so that we do not have to worry about doing things twice and have an automation function that helps us do things faster.
+
+In your own words, what is object oriented programming? (100 words max)
+
+Object Oriented Programming is a filling system used for code. It organizes data or functions by class to make it easier for programmers to access different groups of data and functions.
+
+In your own words explain data and how it relates to code. (100 Words max)
+
+Data is information collected. It can be stored and analyzed. Code helps you sort and call on certain data when needed. Code can be programmed to collect new data from web users and stored on the database.
+
+What is a framework? (150 words max)
+
+Framework is a mock up page that allows programmers the ability to see how a page looks and the types of functions it may have before actually pushing to production.
+
+What is debugging? (150 words max)
+
+Debugging is the process of checking for errors. The program language lets you know when something is not working or broken.
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+I want to learn code because it will give me a different way to communicate with my computer. It will allow me to create websites and apps that I can control and manipulate to show and do what I like. Code will allow me to gather information.
