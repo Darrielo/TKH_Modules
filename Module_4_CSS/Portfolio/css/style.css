@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" type="text/css" href="mystyle.css">
-</head>
-<body>
 :root{
 --first-color: #dbe48;
 --second-color: #f5f5f5;
 --third-color: #990099;
 --fourth-color: black:
 }
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
 
-</body>
 .banner{}
 
 .title{}
@@ -43,4 +34,3 @@ input[type=button],{}
 
 .footer{}
   
-</html>
